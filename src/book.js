@@ -1,7 +1,8 @@
 export default (props) => {
     return(
         <div>
-            <p>{props.title.text}</p>
+            <h2>{props.title}</h2>
+            <p>{props.author}</p>
         </div>
     )
 }
