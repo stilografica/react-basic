@@ -1,6 +1,30 @@
 # Creación de una aplicación en React desde 0
 
-Ejercicio básico de React para la IT Academy a partir de la plantilla [React Template](https://github.com/itacademyReact/react-template)
+Ejercicio básico de React para la IT Academy "Mi primer proyecto con React"
+
+## Características 📝 
+
+### Fases
+
+El ejercicio se debía realizar en cuatro fases:
+
+1. Instalación de React a partir de la plantilla [React Template](https://github.com/itacademyReact/react-template).<br>
+
+   <img src= "https://stilografica.es/reactbasic1.png">
+   
+
+2. Creación de mi primer componente React.
+
+<img src= "https://stilografica.es/reactbasic2.png">
+
+3. Obtener el mismo resultado que la fase anterior pero esta vez pasando el valor mediante _props_.
+
+<img src= "https://stilografica.es/reactbasic2.png">
+
+4. Mostrar listado libros a partir de un archivo JSON. 
+
+<img src= "https://stilografica.es/books.png">
+
 
 ## Prerequisitos 📋
 
