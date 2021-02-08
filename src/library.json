@@ -1,19 +1,10 @@
 [
-
     { 
-
-         "title": "Viatge a la lluna", 
-
-          "author": "Julio Verne" 
-
-     }, 
-
-     { 
-
-         "title": "El metge", 
-
-         "author": "Noah Gordon" 
-
+        "title": "Viatge a la lluna", 
+        "author": "Julio Verne" 
+    }, 
+    { 
+        "title": "El metge", 
+        "author": "Noah Gordon" 
      }
-
  ]
